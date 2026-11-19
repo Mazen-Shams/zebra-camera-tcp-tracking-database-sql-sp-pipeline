@@ -1,0 +1,38 @@
+﻿# Secrets & Environment
+.env
+*.env
+*.pem
+*.key
+
+# Python
+__pycache__/
+*.py[cod]
+*.class
+*.so
+.Python
+env/
+venv/
+.venv/
+python_portable/
+
+# Rust Build Artifacts
+target/
+Cargo.lock
+
+# Large Binaries / Installers
+*.exe
+*.dll
+*.db
+*.msi
+
+# Operating System & IDE
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Logs & Audit Dumps
+*.log
+logs/
+*.csv

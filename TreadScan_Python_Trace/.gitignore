@@ -1,0 +1,13 @@
+# Python Bytecode & Cache Directories
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment Files with Credentials
+.env
+
+# Simulated Databases & Logs (Optional local runtime data)
+logs/*.log
+logs/*.log.old
+logs/*.csv
+simulated_pcs.db

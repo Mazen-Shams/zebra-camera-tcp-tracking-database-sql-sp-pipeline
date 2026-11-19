@@ -1,0 +1,24 @@
+﻿; =========================================================================
+; Industrial Camera Network Mapping Template
+; Maps Machine Codes to Zebra Fixed Industrial Scanner IP Addresses & Ports
+; =========================================================================
+
+[Device0]
+Machine_Code = "TRGB1"
+IP_Address   = "192.168.1.80"
+Port         = 22172
+
+[Device1]
+Machine_Code = "TRGB2"
+IP_Address   = "192.168.1.81"
+Port         = 22172
+
+[Device2]
+Machine_Code = "TRGB3"
+IP_Address   = "192.168.1.82"
+Port         = 22172
+
+[Device3]
+Machine_Code = "TRGB4"
+IP_Address   = "192.168.1.83"
+Port         = 22172
